@@ -1,25 +1,7 @@
-### Hi, I'm Kamille 👋
-Anyone else become a developer and suffer the curse of trying to use websites that were _probably_ okay before but drive you crazy now? What about when you started to learn about accessibility and realized that it's actually WAY worse for others? My journey of becoming a developer has had a primary focus on making intuitive and accessibile UIs built with empathy for the end user. It's what I love about my job; the ability to solve problems and make things easier for others.
+### Hi, I'm Kamille
 
-- 🔭 I’m currently working on a Barista Training App! I love making coffee, but I hate losing track of all of the timing, grinds, and other associated factors to make great coffee. Tools: 
-  - :hammer: A GraphQL API in Rails with an React Native Mobile Application
-- 🌱 I’m currently learning Rails, React Native, and Laravel. (I really want to check out Vue as well!)
-- 👯 I’m looking to collaborate on any open source project. A goal of mine has been to help find and fix accessibility issues in component libraries.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamille-norris-a37971a4/)
-- 😄 Pronouns: [She/Her]
-- ⚡ Fun fact: My initial interest in programming came from wanting to have a cool Myspace page
+Almost everything important about my professional career can be found on [my website](https://kamillenorris.com/) or my [LinkedIn](https://www.linkedin.com/in/kamille-norris-a37971a4/), so here I will instead share a couple fun facts.
 
-<!--
-**LadyKamille/LadyKamille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I originally got into web development from Myspace, the more glitter and clunky animations the better.
+* I created my Github username in college with my original gamertag on the Xbox360 and never updated it to be "more professional."
+* My (unrealistic) dream is to be the next Eric Barone.
